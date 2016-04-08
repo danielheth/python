@@ -1,0 +1,9 @@
+{
+	"name": "python",
+	"version": "2.7.11",
+	"main": "",
+	"description": "python all bundled up for npm.",
+	"homepage": "https://github.com/danielheth/python",
+	"devDependencies": {},
+	"dependencies": {}
+}
